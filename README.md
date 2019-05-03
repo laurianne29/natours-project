@@ -2,18 +2,7 @@
 
 ## About
 
-Here is my first one page create in Scss with some advanced Css properties. This is from a course available on Udemy done by Jonas Schmedtmann called "Advanced CSS and Sass".
-
-This is the first project of the course which we can divided into three part : 
-* <strong>natours-project :
-  * Advanced Css and Scss
-  * Advanced Responsive Design</strong>
-
-* trillo-project :
-  * Master Flexbox
-
-* nexter-project :
-  * Master Css Grid Layouts
+Here is my first one page create in Scss with some advanced Css properties.
 
 ## Requirements
 
