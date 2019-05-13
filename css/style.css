@@ -288,6 +288,10 @@ body {
   .feature-box:hover {
     transform: translateY(-1.5rem) scale(1.03); }
 
+.form__input {
+  font-size: 1.5rem;
+  padding: 1.5rem 2rem; }
+
 .card {
   perspective: 150rem;
   -moz-perspective: 150rem;
